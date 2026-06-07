@@ -1,24 +1,32 @@
-# Collin Velarde · BTCElectrician
+# Collin Velarde
 
-**AI Technical Engineer** — construction document intelligence, LLM/RAG, Python, Azure.
+**AI Technical Engineer** — construction document intelligence · LLM/RAG · Python · Azure · 20+ yr IBEW field background.
 
-Former commercial electrical foreman (**IBEW Local 701**, 20+ years field). I build source-grounded systems that turn plan sets, code, schedules, and field knowledge into searchable, citation-backed products — not generic chatbot output.
+Former area general foreman turned builder. I design source-grounded AI systems for construction operations: plan sets, code, schedules, field knowledge, and evidence-backed answers — not generic chatbot output.
 
-## What I build
+## Primary work (private)
 
-- **Ohmni Oracle** — multi-repo construction AI (Python APIs, Azure Functions retrieval, drawing/code ETL, Next.js UI)
-- **Document intelligence** — PDF/drawing extraction, embeddings/vector search, source cards, fail-closed contracts
-- **Model governance** — prompt/model lifecycle, evaluation fixtures, cost/latency/quality discipline
+Most of my production code is in **private repos** under this account. Active stack:
 
-Most production work lives in **private repos** (enterprise construction AI). Public repos here are utilities and agent-engineering templates.
+| Area | Repos |
+|------|--------|
+| **Product** | `ohmni-backend` · `ohmni-frontend` · `ohmni-oracle-v3` |
+| **Retrieval / Azure** | `abco-azure-functions` · NFPA / code search pipelines |
+| **Knowledge / ETL** | `super-electrician-kb` · `super-electrician-content` · `nfpa70-refactor` |
+| **Adjacent products** | `ohmni-bid` (estimating) · `patriot-crm` · `ohmni-oracle-auto` |
+| **Control plane** | `ohmni-hq` |
 
-## Public repos
+**Stack:** Python · Flask/FastAPI · TypeScript · Next.js · Azure Functions · Azure AI Search-style retrieval · SSE · Postgres/Mongo · prompt/model governance · eval fixtures.
 
-| Repo | What it is |
-|------|------------|
-| [codex-skills](https://github.com/BTCElectrician/codex-skills) | Reusable Codex agent skills and audit templates |
-| [mini-photo-converter](https://github.com/BTCElectrician/mini-photo-converter) | CLI for AI upscaling, background removal, and print-ready resizing |
+Recruiters: the link on my resume points here on purpose — this profile is the map. The side-project repos below are utilities, not the main body of work.
 
-## Elsewhere
+## Public utilities (side projects)
+
+| Repo | Notes |
+|------|--------|
+| [codex-skills](https://github.com/BTCElectrician/codex-skills) | Agent skill templates / audit helpers |
+| [mini-photo-converter](https://github.com/BTCElectrician/mini-photo-converter) | Image upscaling / background-removal CLI |
+
+## Contact
 
 - [LinkedIn](https://linkedin.com/in/collin-velarde-60728486)
