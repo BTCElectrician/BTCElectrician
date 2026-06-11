@@ -11,7 +11,7 @@ Most of my production code is in **private repos** under this account. Active st
 | Area | Repos |
 |------|--------|
 | **Product** | `ohmni-backend` · `ohmni-frontend` · `ohmni-oracle-v3` |
-| **Retrieval / Azure** | `abco-azure-functions` · NFPA / code search pipelines |
+| **Retrieval / Azure** | `azure-functions` · NFPA / code search pipelines |
 | **Knowledge / ETL** | `super-electrician-kb` · `super-electrician-content` · `nfpa70-refactor` |
 | **Adjacent products** | `ohmni-bid` (estimating) · `patriot-crm` · `ohmni-oracle-auto` |
 | **Control plane** | `ohmni-hq` |
