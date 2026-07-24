@@ -18,12 +18,15 @@ Most of my production code is in **private repos** under this account. Active st
 
 **Stack:** Python · Flask/FastAPI · TypeScript · Next.js · Azure Functions · Azure AI Search-style retrieval · SSE · Postgres/Mongo · prompt/model governance · eval fixtures.
 
-Recruiters: the link on my resume points here on purpose — this profile is the map. The side-project repos below are utilities, not the main body of work.
+Recruiters: the link on my resume points here on purpose — this profile is the map. The public projects below are selected first-party releases; most production work remains private.
 
-## Public utilities (side projects)
+## Public projects
 
 | Repo | Notes |
 |------|--------|
+| [elec-codebook-oo](https://github.com/BTCElectrician/elec-codebook-oo) | Open-source, local-first ingestion and retrieval for page-cited technical manuals |
+| [agent-docs-doctor](https://github.com/BTCElectrician/agent-docs-doctor) | Read-only evidence engine and Agent Skill for auditing repository agent instructions |
+| [doc-rot-scrub](https://github.com/BTCElectrician/doc-rot-scrub) | Claude/Codex skill for safely finding and retiring stale AI-era documentation |
 | [codex-skills](https://github.com/BTCElectrician/codex-skills) | Agent skill templates / audit helpers |
 | [mini-photo-converter](https://github.com/BTCElectrician/mini-photo-converter) | Image upscaling / background-removal CLI |
 
