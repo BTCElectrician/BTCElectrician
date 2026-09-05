@@ -1,26 +1,18 @@
 # Collin Velarde
 
-**AI Technical Engineer** — construction document intelligence · LLM/RAG · Python · Azure · 20+ yr IBEW field background.
+**AI Engineer building source-grounded systems for construction operations.**
 
-Former area general foreman turned builder. I design source-grounded AI systems for construction operations: plan sets, code, schedules, field knowledge, and evidence-backed answers — not generic chatbot output.
+I have spent 20 years in IBEW Local 701 and commercial electrical construction, from the field to general foreman. Now I build tools that turn plan sets, code, schedules, and field knowledge into traceable answers for the people running the work.
 
-## Primary work (private)
+## What I build
 
-Most of my production code is in **private repos** under this account. Active stack:
+Construction information is scattered across drawings, specifications, schedules, field notes, and code. The work here is about making that information usable without breaking its connection to the source.
 
-| Area | Repos |
-|------|--------|
-| **Product** | `ohmni-backend` · `ohmni-frontend` · `ohmni-oracle-v3` |
-| **Retrieval / Azure** | `azure-functions` · NFPA / code search pipelines |
-| **Knowledge / ETL** | `super-electrician-kb` · `super-electrician-content` · `nfpa70-refactor` |
-| **Adjacent products** | `ohmni-bid` (estimating) · `patriot-crm` · `ohmni-oracle-auto` |
-| **Control plane** | `ohmni-hq` |
+I work across document ingestion, retrieval, evaluation, APIs, and review tooling. The standard is simple: an answer should expose the evidence behind it, and uncertainty should stay visible.
 
-**Stack:** Python · Flask/FastAPI · TypeScript · Next.js · Azure Functions · Azure AI Search-style retrieval · SSE · Postgres/Mongo · prompt/model governance · eval fixtures.
+**Tools:** Python · Flask/FastAPI · TypeScript · Next.js · Azure Functions · search and retrieval · Postgres · evaluation fixtures.
 
-Recruiters: the link on my resume points here on purpose — this profile is the map. The public projects below are selected first-party releases; most production work remains private.
-
-## Public projects
+## Selected public work
 
 | Repo | Notes |
 |------|--------|
