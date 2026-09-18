@@ -1,27 +1,32 @@
 # Collin Velarde
 
-**AI Engineer building source-grounded systems for construction operations.**
+**AI Engineer for Construction**
 
-I have spent 20 years in IBEW Local 701 and commercial electrical construction, from the field to general foreman. Now I build tools that turn plan sets, code, schedules, and field knowledge into traceable answers for the people running the work.
+I build source-grounded AI systems that turn construction drawings, specifications, code, schedules, and field knowledge into traceable answers. After 20 years in IBEW Local 701 and commercial electrical construction, from field helper to general foreman, I build around how work gets run in the field.
 
-## What I build
+## Private systems I build
 
-Construction information is scattered across drawings, specifications, schedules, field notes, and code. The work here is about making that information usable without breaking its connection to the source.
+Some of my primary work is private while in active development or because it includes proprietary construction material. The public work below demonstrates the engineering approach.
 
-I work across document ingestion, retrieval, evaluation, APIs, and review tooling. The standard is simple: an answer should expose the evidence behind it, and uncertainty should stay visible.
+- **Ohmni Oracle** — full-stack construction document intelligence: ingestion, source-cited retrieval, review workflows, and field-facing AI.
+- **Construction evidence systems** — source geometry, evaluation, human review, provenance, and uncertainty that stays visible.
 
-**Tools:** Python · Flask/FastAPI · TypeScript · Next.js · Azure Functions · search and retrieval · Postgres · evaluation fixtures.
+## Engineering focus
+
+I design document systems that preserve sources, retrieve the right evidence, and make outputs reviewable.
+
+**Stack:** Python · TypeScript · Flask/FastAPI · React/Next.js · PostgreSQL · MongoDB · Azure AI Search · Azure Functions · Rust  
+**Methods:** document ingestion · hybrid search (keyword + vector) · embeddings · retrieval · evaluation · APIs · review tooling
 
 ## Selected public work
 
 | Repo | Notes |
-|------|--------|
+| --- | --- |
 | [elec-codebook-oo](https://github.com/BTCElectrician/elec-codebook-oo) | Open-source, local-first ingestion and retrieval for page-cited technical manuals |
-| [agent-docs-doctor](https://github.com/BTCElectrician/agent-docs-doctor) | Read-only evidence engine and Agent Skill for auditing repository agent instructions |
-| [doc-rot-scrub](https://github.com/BTCElectrician/doc-rot-scrub) | Claude/Codex skill for safely finding and retiring stale AI-era documentation |
-| [codex-skills](https://github.com/BTCElectrician/codex-skills) | Agent skill templates / audit helpers |
-| [mini-photo-converter](https://github.com/BTCElectrician/mini-photo-converter) | Image upscaling / background-removal CLI |
+| [agent-docs-doctor](https://github.com/BTCElectrician/agent-docs-doctor) | Read-only evidence engine for auditing repository agent instructions |
+| [doc-rot-scrub](https://github.com/BTCElectrician/doc-rot-scrub) | Tooling for safely finding and retiring stale AI-era documentation |
 
 ## Contact
 
+- [Ohmni Oracle](https://ohmnioracle.com)
 - [LinkedIn](https://linkedin.com/in/collin-velarde-60728486)
