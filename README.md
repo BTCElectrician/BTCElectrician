@@ -26,7 +26,7 @@ I build source-grounded AI systems that turn construction drawings, specificatio
 Some of my primary work is private while in active development or because it includes proprietary construction material. The public work below demonstrates the engineering approach.
 
 - **Ohmni Oracle** — full-stack construction document intelligence: ingestion, source-cited retrieval, review workflows, and field-facing AI.
-- **Construction evidence systems** — source geometry, evaluation, human review, provenance, and uncertainty that stays visible.
+- **Construction ETL & retrieval pipelines** — compile drawings and technical documents into typed, source-linked sheet, schedule, panel-circuit, room, and equipment records; preserve reviewable coordinates, then incrementally publish safe retrieval projections to Azure AI Search.
 
 ## Selected public work
 
