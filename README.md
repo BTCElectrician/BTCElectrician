@@ -2,7 +2,7 @@
 
 ## AI Engineer for Construction
 
-I build source-grounded AI systems that turn construction drawings, specifications, code, schedules, and field knowledge into traceable answers. After 20 years in IBEW Local 701 and commercial electrical construction, from field helper to general foreman, I build around how work gets run in the field.
+I build source-grounded AI systems that turn construction drawings, specifications, code, schedules, and field knowledge into traceable answers. 
 
 <p align="center">
   <strong>Languages & application engineering</strong><br />
