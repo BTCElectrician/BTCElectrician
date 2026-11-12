@@ -2,6 +2,8 @@
 
 ## AI Engineer for Construction
 
+**Founder, Ohmni Oracle.** 20 years in the field as a commercial electrician, from apprentice to general foreman. IBEW Local 701 member since 2005.
+
 I build source-grounded AI systems that turn construction drawings, specifications, code, schedules, and field knowledge into traceable answers. 
 
 <p align="center">
