@@ -34,6 +34,7 @@ Most of my primary work is private while in active development or because it inc
 
 | Repo | Notes |
 | --- | --- |
+| [agent-copy-sort](https://github.com/BTCElectrician/agent-copy-sort) | Agent skill that finds the working copies Claude Code, Codex and Cursor leave behind and removes only the ones provably finished ([live demo](https://btcelectrician.github.io/agent-copy-sort/)) |
 | [elec-codebook-oo](https://github.com/BTCElectrician/elec-codebook-oo) | Open-source, local-first ingestion and retrieval for page-cited technical manuals |
 | [agent-docs-doctor](https://github.com/BTCElectrician/agent-docs-doctor) | Read-only evidence engine for auditing repository agent instructions |
 | [doc-rot-scrub](https://github.com/BTCElectrician/doc-rot-scrub) | Tooling for safely finding and retiring stale AI-era documentation |
